@@ -1,13 +1,7 @@
 # 🎬 Rotten Tomatoes Movie Reviews Sentiment Analysis
 
-## 📌 Project Information
-- **Project ID:** #CC69849  
+## 📌 Project Information  
 - **Project Title:** Analyze sentiment in movie reviews  
-- **Internship Domain:** Data Science Intern  
-- **Project Level:** Entry Level  
-- **Duration:** September 2025  
-- **Assigned By:** CodeClause Internship  
-- **Assigned To:** Santosh Mutyala  
 
 ---
 
